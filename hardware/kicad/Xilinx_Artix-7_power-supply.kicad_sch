@@ -5,7 +5,7 @@
 	(uuid "66fb18c8-b4dc-4057-a929-25796a29e105")
 	(paper "A3")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -9111,6 +9111,21 @@
 			(justify left bottom)
 		)
 		(uuid "95a5d597-9ac4-4921-9b1f-9d91204dd369")
+	)
+	(text "FPGA power"
+		(exclude_from_sim no)
+		(at 314.706 256.794 0)
+		(effects
+			(font
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "bea1ae1e-0388-4dd4-9da5-9f9af435db67")
 	)
 	(symbol
 		(lib_id "MurPhySDR-symbols:C")

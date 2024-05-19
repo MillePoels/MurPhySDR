@@ -5,7 +5,7 @@
 	(uuid "14ca2aa2-ddc5-4a0a-9d5a-249744be15ea")
 	(paper "A3")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -6494,7 +6494,7 @@
 		(start 93.98 16.51)
 		(end 130.81 24.13)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6506,7 +6506,7 @@
 		(start 299.72 21.59)
 		(end 326.39 29.21)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6518,7 +6518,7 @@
 		(start 38.1 114.3)
 		(end 64.77 121.92)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6530,7 +6530,7 @@
 		(start 123.19 114.3)
 		(end 144.78 121.92)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6542,7 +6542,7 @@
 		(start 91.44 170.18)
 		(end 109.22 177.8)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6561,6 +6561,21 @@
 			(justify left bottom)
 		)
 		(uuid "15bd2cbb-f3c3-45c5-bd01-25dfc1487d47")
+	)
+	(text "FT601Q USB 3.0 interface"
+		(exclude_from_sim no)
+		(at 329.946 256.794 0)
+		(effects
+			(font
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "2192c7c3-0fa6-4791-81c7-ffcb9d6df483")
 	)
 	(text "Power"
 		(exclude_from_sim no)

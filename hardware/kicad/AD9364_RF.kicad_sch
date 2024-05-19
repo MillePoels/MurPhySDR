@@ -5,7 +5,7 @@
 	(uuid "42af0216-1600-4464-b8b6-c02ba3cf96ce")
 	(paper "A3")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -7874,6 +7874,21 @@
 			(justify left bottom)
 		)
 		(uuid "14e48f5a-c82f-4651-9427-a860aa89529b")
+	)
+	(text "RF frontend"
+		(exclude_from_sim no)
+		(at 314.452 256.794 0)
+		(effects
+			(font
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "167f331c-e2ec-4672-99af-68804e2894d1")
 	)
 	(text "RX-C"
 		(exclude_from_sim no)

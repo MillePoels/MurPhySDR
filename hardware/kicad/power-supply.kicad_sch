@@ -5,7 +5,7 @@
 	(uuid "4021083c-f716-4aff-b00c-f6608c93a294")
 	(paper "A3")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -6461,7 +6461,7 @@
 		(start 64.77 19.05)
 		(end 127 26.67)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6473,7 +6473,7 @@
 		(start 232.41 21.59)
 		(end 303.53 29.21)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -6482,7 +6482,7 @@
 		(uuid 676d8069-5d5f-4127-8ea6-d33f3656253a)
 	)
 	(image
-		(at 359.41 228.6)
+		(at 377.19 237.49)
 		(scale 1.85759)
 		(uuid "4a6f1d2d-4cfe-4dfc-b96d-dafe8bdfa7c6")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAVYAAACcCAIAAACryRSyAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
@@ -6666,7 +6666,7 @@
 		)
 	)
 	(image
-		(at 175.26 44.45)
+		(at 173.99 54.61)
 		(uuid "68641cd2-afa9-42ef-9082-cb3e6203328c")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAigAAAG5CAIAAAArvVipAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
 			"nOzdfZTdZJ048O/07T5tgQlbdAKc04krOKlWJ+DLxJUycc/KhBVPA1tp3NVtZI82lNWm4G6vZdHL"
@@ -7179,7 +7179,7 @@
 		)
 	)
 	(image
-		(at 196.85 262.89)
+		(at 254 262.89)
 		(uuid "cc69b47c-c16c-4132-a369-e488f64148fa")
 		(data "iVBORw0KGgoAAAANSUhEUgAAA+UAAAG7CAIAAAAquqNzAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
 			"nOzdb2wa+5k4+oerHs+cbm3mVI6gS7Vg9wXjN4fZFweoZAt+crQmjnaNf7u6cKTKUN3jmDaRzHFU"
@@ -8131,6 +8131,21 @@
 			"AQAAAAAA2F/QrwMAAAAAALC/oF8HAAAAAABgf/0/M1FGQwP7QJ4AAAAASUVORK5CYII="
 		)
 	)
+	(text "Power supply"
+		(exclude_from_sim no)
+		(at 315.976 256.794 0)
+		(effects
+			(font
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "7b0bccee-efa9-40ce-94a7-62cec56d0a62")
+	)
 	(text "switching regulators"
 		(exclude_from_sim no)
 		(at 64.77 25.4 0)
@@ -8155,7 +8170,7 @@
 	)
 	(text "PWR sequence: 1V0 -> 1V8 -> 3V3"
 		(exclude_from_sim no)
-		(at 328.93 261.62 0)
+		(at 67.056 32.004 0)
 		(effects
 			(font
 				(size 2 2)

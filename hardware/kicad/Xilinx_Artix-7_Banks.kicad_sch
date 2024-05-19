@@ -5,7 +5,7 @@
 	(uuid "9ee180f8-1a47-4be6-8afa-2e8028e6fb8b")
 	(paper "A3")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -9010,10 +9010,22 @@
 		(uuid "fe3ff23a-24f5-49ab-bc40-b836fd3144f2")
 	)
 	(rectangle
+		(start 254 186.69)
+		(end 270.51 194.31)
+		(stroke
+			(width 0.2159)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1cb50774-f198-463d-85b7-37816005a149)
+	)
+	(rectangle
 		(start 34.29 24.13)
 		(end 73.66 31.75)
 		(stroke
-			(width 0.15)
+			(width 0.2159)
 			(type default)
 		)
 		(fill
@@ -11039,27 +11051,32 @@
 			"AAB0CyEHAAC6hZADAADdQsgBAIBu/X8PRnP1UYnAHAAAAABJRU5ErkJggg=="
 		)
 	)
-	(text "1.8V for AD9364!!!"
+	(text "FPGA banks, JTAG and FLASH"
 		(exclude_from_sim no)
-		(at 306.07 261.62 0)
+		(at 334.264 256.794 0)
 		(effects
 			(font
-				(size 2 2)
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
 			)
-			(justify left bottom)
 		)
-		(uuid "0d3b75cd-13bf-4123-a427-303de7bd9dd4")
+		(uuid "105b4442-f817-48ba-8dd0-09037f44824c")
 	)
-	(text "3.3V for FTDI!!!"
+	(text "JTAG"
 		(exclude_from_sim no)
-		(at 305.816 265.938 0)
+		(at 255.27 193.04 0)
 		(effects
 			(font
-				(size 2 2)
+				(face "KiCad Font")
+				(size 4 4)
 			)
 			(justify left bottom)
 		)
-		(uuid "75855766-eaaa-4487-b4df-71c3677dda14")
+		(uuid "7e34ea0c-a6df-4a72-a68e-91803ffc8861")
 	)
 	(text "CONF FLASH"
 		(exclude_from_sim no)

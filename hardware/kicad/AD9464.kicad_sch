@@ -5,7 +5,7 @@
 	(uuid "ee99d210-f2b2-45ca-8ccc-27ac45013586")
 	(paper "A4")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -15,7 +15,7 @@
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3524)
 			(type solid)
 		)
 		(fill
@@ -23,16 +23,17 @@
 		)
 		(uuid "6f9f0703-a581-4ad1-a5e1-a7e2d8426388")
 		(property "Sheetname" "RF"
-			(at 25.4 24.3234 0)
+			(at 25.4 24.2234 0)
 			(effects
 				(font
 					(size 2 2)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "AD9364_RF.kicad_sch"
-			(at 25.4 51.3846 0)
+			(at 25.4 51.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,7 +54,7 @@
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3524)
 			(type solid)
 		)
 		(fill
@@ -61,16 +62,17 @@
 		)
 		(uuid "bbac00a4-a794-4951-be32-713542ea8693")
 		(property "Sheetname" "IO"
-			(at 177.8 24.3234 0)
+			(at 177.8 24.2234 0)
 			(effects
 				(font
 					(size 2 2)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "AD9364_IO.kicad_sch"
-			(at 177.8 51.3846 0)
+			(at 177.8 51.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -91,7 +93,7 @@
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3524)
 			(type solid)
 		)
 		(fill
@@ -99,16 +101,17 @@
 		)
 		(uuid "e7319b4f-68a0-4adf-95fb-c329b6050f07")
 		(property "Sheetname" "power-supply"
-			(at 101.6 24.3234 0)
+			(at 101.6 24.2234 0)
 			(effects
 				(font
 					(size 2 2)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "AD9364_power-supply.kicad_sch"
-			(at 101.6 51.3846 0)
+			(at 101.6 51.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)

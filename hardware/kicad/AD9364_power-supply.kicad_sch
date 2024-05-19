@@ -5,7 +5,7 @@
 	(uuid "c787303e-1bcd-4e53-b622-95727ec8b642")
 	(paper "A4")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -6539,6 +6539,21 @@
 			(type default)
 		)
 		(uuid "ff4937c9-882d-4bd7-ae38-3dfdf4745ddb")
+	)
+	(text "AD9364 power"
+		(exclude_from_sim no)
+		(at 194.564 169.926 0)
+		(effects
+			(font
+				(face "DejaVu Serif")
+				(size 2.794 2.794)
+				(thickness 1.016)
+				(bold yes)
+				(italic yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "ea12bef0-25fc-43f1-9587-7b7ebfc7e8a7")
 	)
 	(symbol
 		(lib_id "MurPhySDR-symbols:C")

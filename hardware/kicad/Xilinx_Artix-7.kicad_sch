@@ -5,7 +5,7 @@
 	(uuid "ecd3cd67-61b6-46f4-85bb-472ef2b6682a")
 	(paper "A4")
 	(title_block
-		(title "Murphy SDR")
+		(title "MurPhy SDR")
 		(date "2024-04-22")
 		(company "M.P Inc")
 	)
@@ -15,7 +15,7 @@
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3524)
 			(type solid)
 		)
 		(fill
@@ -23,16 +23,17 @@
 		)
 		(uuid "381f714d-8cf0-4fff-bb7d-e4a58023bfd2")
 		(property "Sheetname" "Banks"
-			(at 25.4 24.3234 0)
+			(at 25.4 24.2234 0)
 			(effects
 				(font
 					(size 2 2)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "Xilinx_Artix-7_Banks.kicad_sch"
-			(at 25.4 51.3846 0)
+			(at 25.4 51.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58,7 +59,7 @@
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
-			(width 0.1524)
+			(width 0.3524)
 			(type solid)
 		)
 		(fill
@@ -66,16 +67,17 @@
 		)
 		(uuid "3e743c9d-48f8-4780-8f30-565820b5dcd8")
 		(property "Sheetname" "power-supply"
-			(at 88.9 24.3234 0)
+			(at 88.9 24.2234 0)
 			(effects
 				(font
 					(size 2 2)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "Xilinx_Artix-7_power-supply.kicad_sch"
-			(at 88.9 51.3846 0)
+			(at 88.9 51.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
