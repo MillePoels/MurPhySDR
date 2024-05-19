@@ -1,0 +1,335 @@
+(footprint "TC1113MA"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "AT224-1A_2021")
+	(tags "Transformer")
+	(property "Reference" "REF**"
+		(at -3 0 180)
+		(layer "F.SilkS")
+		(uuid "da30e8aa-71bc-4ee0-aa7f-767508ead7a4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TC1-1-13M+"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "49f87d68-b7c3-48b6-83c0-f729fd3ad96f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "TC1113MA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0631334d-a972-4efd-9e5d-7c38e12e93a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.minicircuits.com/pdfs/TC1-1-13MA+.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e25c08f-d4d6-4819-8264-99e84fde6c22")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef7afae1-1381-4758-a1cf-c2cb312e4cab")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "4.06"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd0bfe1d-68a3-47dc-b519-0f9b395fc1e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Mini-Circuits"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f642d9b7-1c50-450e-bd6e-65b6887bad19")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TC1-1-13MA+"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9523cfe-2aad-42cf-9839-d3297c6f7014")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "139-TC1-1-13MA"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9aaf0ff0-9565-4bcc-8a40-7a95e2d9c080")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/TC1-1-13MA%2b?qs=xZ%2FP%252Ba9zWqaQyucfPXsKqA%3D%3D"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a5570a0-cb50-4088-9197-bd1b2c345405")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "empty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "794af728-7d8c-4daa-9302-7f92997f7fec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.905 -0.4)
+		(end -1.905 0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b96b439d-9539-4566-a6bb-cb3e91d91e55")
+	)
+	(fp_line
+		(start -1.27 -2.9)
+		(end -1.27 -2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37d05777-e955-4e1f-ad26-57c721976f13")
+	)
+	(fp_line
+		(start -1.27 -2.8)
+		(end -1.27 -2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c7425de-926c-46ed-b8e2-6cbce9575bd4")
+	)
+	(fp_line
+		(start 1.905 -0.4)
+		(end 1.905 0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b45638d4-ae0b-4b55-937c-05989350cd05")
+	)
+	(fp_arc
+		(start -1.27 -2.9)
+		(mid -1.22 -2.85)
+		(end -1.27 -2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1b9cb7d0-7d71-48fe-a6da-4a3ef6dd2130")
+	)
+	(fp_arc
+		(start -1.27 -2.8)
+		(mid -1.32 -2.85)
+		(end -1.27 -2.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f48c9d6-a61f-4207-a9c7-0826b65372a6")
+	)
+	(fp_line
+		(start -2.905 -3.415)
+		(end 2.905 -3.415)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c25a0bf9-3903-4d2e-a543-7879db1eb4de")
+	)
+	(fp_line
+		(start -2.905 3.415)
+		(end -2.905 -3.415)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f5ac2b47-df3d-4a18-8129-bc4ebbc8f595")
+	)
+	(fp_line
+		(start 2.905 -3.415)
+		(end 2.905 3.415)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3125ea5b-43eb-434c-91c9-329fba898c5b")
+	)
+	(fp_line
+		(start 2.905 3.415)
+		(end -2.905 3.415)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3691d0ed-0d1c-4966-bf09-1b3cf65f1f23")
+	)
+	(fp_line
+		(start -1.905 -1.905)
+		(end 1.905 -1.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f3d2ca36-2e9a-4558-8c44-9d9ea52e2ee8")
+	)
+	(fp_line
+		(start -1.905 1.905)
+		(end -1.905 -1.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ca880d38-b037-479d-aad0-938b97767846")
+	)
+	(fp_line
+		(start 1.905 -1.905)
+		(end 1.905 1.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a8656df-6e9d-438e-97e6-3ba577e033ce")
+	)
+	(fp_line
+		(start 1.905 1.905)
+		(end -1.905 1.905)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "522e27cb-d8ed-4fb1-85a9-615319898fa4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "80f67fde-141d-4e1e-a14a-d1e94efefa45")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.27 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6bd1ca18-200e-405c-9b1c-9dcc23a7c8b3")
+	)
+	(pad "2" smd rect
+		(at 0 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f00f5250-d22f-4892-ae21-a2a5e1b3d694")
+	)
+	(pad "3" smd rect
+		(at 1.27 -1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "09add1ee-f7ca-462d-981c-27d5734ca0a9")
+	)
+	(pad "4" smd rect
+		(at 1.27 1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0302f0fe-f2fb-4d7c-9ac1-1341271eaa5d")
+	)
+	(pad "6" smd rect
+		(at -1.27 1.59)
+		(size 0.76 1.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8f3706f4-7c38-4621-b0e5-8e5a33015db2")
+	)
+	(model "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-3Dmodels.3dshapes/TC1-1-13M+.stp"
+		(offset
+			(xyz 0 0 0.15)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MurPhySDR-footprints")(type "KiCad")(uri "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-footprints.pretty")(options "")(descr ""))
+)

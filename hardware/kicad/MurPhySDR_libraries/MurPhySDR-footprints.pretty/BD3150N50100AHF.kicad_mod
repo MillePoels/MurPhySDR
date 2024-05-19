@@ -1,0 +1,309 @@
+(footprint "BD3150N50100AHF"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "0404 (1010 Metric)")
+	(tags "Filter")
+	(property "Reference" "REF**"
+		(at -3.53 -0.05 180)
+		(layer "F.SilkS")
+		(uuid "5a6e40aa-3f4a-4481-abe5-14037699724b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "BD3150N50100AHF-CUSTOM"
+		(at 0 -5 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "de6259b3-7602-47d0-9bec-ef472c5b34e9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "BD3150N50100AHF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb308f04-0cc4-4554-9b07-ad891e3928b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn.ttm.com/repository/products/wireless-xinger/balun-transformers/BD3150N50100AHF/BD3150N50100AHF_97_J.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d124d1a-d425-46fb-967c-db0c2844da18")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e487fffe-bf8a-4d6e-90dd-524d65f75a3c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "0.56"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ea7220b-a442-498a-803f-862c9d889034")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "ANAREN"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a4e92b6-538f-4509-9c6a-8a19fcc0d522")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BD3150N50100AHF"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd6e30e9-354d-40f9-a15f-b079577e5ac4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "620-BD3150N50100AHF"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16278b55-a873-48cf-9027-f4d41c44b92f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Anaren/BD3150N50100AHF?qs=61pwXRo0i5hyFh2UnzZs%252BA%3D%3D"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8e07e17-e75b-433e-a414-2778be417206")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "empty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eeac6bd8-5235-4b42-8b00-b5f6d1e5fc5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1 -0.25)
+		(end 1 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f21119f-5a27-4345-a82d-21856441ceca")
+	)
+	(fp_line
+		(start 1.1 -0.25)
+		(end 1.1 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "331f2bd5-9228-4319-8901-fbce21e925a7")
+	)
+	(fp_arc
+		(start 1 -0.25)
+		(mid 1.05 -0.3)
+		(end 1.1 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d621d3cc-e01e-4744-9e69-d7c9917cf8ef")
+	)
+	(fp_arc
+		(start 1.1 -0.25)
+		(mid 1.05 -0.2)
+		(end 1 -0.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82961f3a-c586-453f-aee4-331b1772ccf0")
+	)
+	(fp_line
+		(start -1.52 -1.52)
+		(end 1.52 -1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f7e3b5a3-b1d5-4be5-a5cc-edda1c486257")
+	)
+	(fp_line
+		(start -1.52 1.52)
+		(end -1.52 -1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dbe2e587-c25e-4a99-a130-b1b1336eec05")
+	)
+	(fp_line
+		(start 1.52 -1.52)
+		(end 1.52 1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "257f099d-6dd7-4731-81c3-bc8001ca2163")
+	)
+	(fp_line
+		(start 1.52 1.52)
+		(end -1.52 1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c1060300-b2a8-42ab-bc7a-f35852123607")
+	)
+	(fp_line
+		(start -0.52 -0.52)
+		(end 0.52 -0.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d792310a-bd3b-482d-be2a-d9f78bc023b6")
+	)
+	(fp_line
+		(start -0.52 0.52)
+		(end -0.52 -0.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "871920b1-1a80-49e5-bead-2e8d6735c0b6")
+	)
+	(fp_line
+		(start 0.52 -0.52)
+		(end 0.52 0.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0915ffe6-3782-4977-b82f-9c81eba1262a")
+	)
+	(fp_line
+		(start 0.52 0.52)
+		(end -0.52 0.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1a7e8960-1c25-403b-832e-9ed3aa0e60d0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -7 180)
+		(layer "F.Fab")
+		(uuid "66207ba6-f44d-41ec-8735-742704681409")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.275 -0.275 90)
+		(size 0.3 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "020067e1-a56f-4889-a294-a292ab2ead75")
+	)
+	(pad "2" smd rect
+		(at -0.25 -0.25 90)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4eb08379-b9a1-4f60-bb0f-15611feb5ebb")
+	)
+	(pad "3" smd rect
+		(at -0.25 0.25 90)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "08392d37-21f1-4c2e-b52c-435400ede270")
+	)
+	(pad "4" smd rect
+		(at 0.25 0.25 90)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5ee5ff8a-5aef-488f-9745-6f0825d39ef6")
+	)
+	(model "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-3Dmodels.3dshapes/BD3150N50100AHF.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

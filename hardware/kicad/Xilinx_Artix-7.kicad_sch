@@ -1,0 +1,99 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ecd3cd67-61b6-46f4-85bb-472ef2b6682a")
+	(paper "A4")
+	(title_block
+		(title "Murphy SDR")
+		(date "2024-04-22")
+		(company "M.P Inc")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "381f714d-8cf0-4fff-bb7d-e4a58023bfd2")
+		(property "Sheetname" "Banks"
+			(at 25.4 24.3234 0)
+			(effects
+				(font
+					(size 2 2)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Xilinx_Artix-7_Banks.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "start_0"
+				(path "/f79cfdfc-79dc-4115-8b60-741b35e85307/a1fdd07f-fee2-4fed-abec-a6a52142ea66"
+					(page "12")
+				)
+			)
+			(project "MurPhySDR"
+				(path "/78b46f92-f168-4aa2-8d3c-c6cd3d325113/827cb466-a7f5-4e5f-a0e7-f5734c155d4e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.9 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e743c9d-48f8-4780-8f30-565820b5dcd8")
+		(property "Sheetname" "power-supply"
+			(at 88.9 24.3234 0)
+			(effects
+				(font
+					(size 2 2)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Xilinx_Artix-7_power-supply.kicad_sch"
+			(at 88.9 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "start_0"
+				(path "/f79cfdfc-79dc-4115-8b60-741b35e85307/a1fdd07f-fee2-4fed-abec-a6a52142ea66"
+					(page "12")
+				)
+			)
+			(project "MurPhySDR"
+				(path "/78b46f92-f168-4aa2-8d3c-c6cd3d325113/827cb466-a7f5-4e5f-a0e7-f5734c155d4e"
+					(page "3")
+				)
+			)
+		)
+	)
+)

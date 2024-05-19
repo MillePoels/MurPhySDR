@@ -1,0 +1,262 @@
+(footprint "6TPE330MFL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "POSCAP_D12_D15_D15E_D2E_D2_D3L_D4")
+	(tags "Capacitor Polarised")
+	(property "Reference" "REF**"
+		(at 0 -3.5 0)
+		(layer "F.SilkS")
+		(uuid "139ff02e-0f92-4d2e-836b-b146046ac512")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "330uF"
+		(at 0 -8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5fa523bf-62c4-4e6c-86a8-d93b4fa588e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "6TPE330MFL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6716e152-38b3-4340-a6f2-7adcf058bb82")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe9ef23f-1db9-4df8-8ad1-72d9bb9396e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad33049f-363e-464f-9fe0-b040cbb4f9dd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Panasonic"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4920d5a9-fa06-46f8-a1da-b18d536bf24c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "6TPE330MFL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df215fcf-e6a3-4ee1-a5c6-5bbf2d08d125")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "667-6TPE330MFL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13ebf7f2-ba0b-49e5-bf88-6916fccbf611")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "empty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ce0af89-023f-48df-8d8b-c5f15652f7d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.65 -2.15)
+		(end 3.65 -2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90bd0ea8-76fd-4911-a132-09e1cd42f281")
+	)
+	(fp_line
+		(start 3.65 2.15)
+		(end -3.65 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30be65d5-77fd-4da1-a736-e2b61d5e02bc")
+	)
+	(fp_circle
+		(center -4.9 0)
+		(end -4.9 0.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "dce8c8be-67a3-4aa5-9af0-756df65035df")
+	)
+	(fp_line
+		(start -5.8 -3.15)
+		(end 5.05 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7344de73-1678-4c8d-bf49-e2e97d838316")
+	)
+	(fp_line
+		(start -5.8 3.15)
+		(end -5.8 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cc0ecf2d-6762-44cf-8c78-90f15ad10b57")
+	)
+	(fp_line
+		(start 5.05 -3.15)
+		(end 5.05 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d2b56f39-1981-4f1a-b2ca-fedeef4511d8")
+	)
+	(fp_line
+		(start 5.05 3.15)
+		(end -5.8 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d279121-e18d-4c05-a418-51ac551fd94e")
+	)
+	(fp_line
+		(start -3.65 -2.15)
+		(end 3.65 -2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d8d2cad-2685-47df-bd27-2a6c6dbf4958")
+	)
+	(fp_line
+		(start -3.65 2.15)
+		(end -3.65 -2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "979083d6-76e5-4f77-8e10-9e676a9ae031")
+	)
+	(fp_line
+		(start 3.65 -2.15)
+		(end 3.65 2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e11b3e79-7f9a-4198-a033-83f67fd68888")
+	)
+	(fp_line
+		(start 3.65 2.15)
+		(end -3.65 2.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7886a746-ea36-44ce-8f8a-fc926d284e63")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -6 0)
+		(layer "F.Fab")
+		(uuid "9752675d-7504-4d60-98df-0f21090654ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.05 0)
+		(size 2.4 2.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f8f7f66-7350-4da7-b8c6-930051226323")
+	)
+	(pad "2" smd rect
+		(at 3.05 0)
+		(size 2.4 2.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "851f3433-2e42-4b06-922b-9e192702841a")
+	)
+	(model "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-3Dmodels.3dshapes/6TPE330MFL.stp"
+		(offset
+			(xyz 0 0 0.9499999738)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 0 -90)
+		)
+	)
+)

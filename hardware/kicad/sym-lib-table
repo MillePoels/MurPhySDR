@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MurPhySDR-symbols")(type "KiCad")(uri "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-symbols.kicad_sym")(options "")(descr ""))
+)

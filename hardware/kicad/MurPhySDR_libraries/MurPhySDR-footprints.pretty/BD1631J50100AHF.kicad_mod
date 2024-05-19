@@ -1,0 +1,321 @@
+(footprint "BD1631J50100AHF"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "BD1631J50100AHF-1")
+	(tags "Transformer")
+	(property "Reference" "REF**"
+		(at 0 -3.9 90)
+		(layer "F.SilkS")
+		(uuid "f8902e75-f280-4d77-a4ea-5b09a31c2ef6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "BD1631J50100AHF-CUSTOM"
+		(at 0 -5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "59139c55-03e3-4908-8bed-526f3a30e261")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "BD1631J50100AHF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1586b29e-4a89-495a-90bf-e30b46b06f22")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.co.uk/datasheet/2/21/BD1631J50100AHF-3364808.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42364a0d-6580-42e7-94fa-68531947e125")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ca7aad0-f17f-4ee6-9cc4-4c3bf17bace5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5d6aa2b-1581-4fee-aa9e-3515aec447be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "ANAREN"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31f5ba66-76d6-4534-b6e1-ad386df80ef3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BD1631J50100AHF"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7899068-e486-4d50-9864-f8eac6aad631")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "620-BD1631J50100AHF"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b344631e-02a4-4d98-ad85-920a5f00933b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Anaren/BD1631J50100AHF?qs=61pwXRo0i5iUfnwkd6QDzQ%3D%3D"
+		(at 0 0 -90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d2efeac-4a30-4600-9095-5dcb16a9ff94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "empty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ce47a67-0772-4bcd-82d6-9299ba40518b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.66 1.2)
+		(end -0.66 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "026e8213-7b96-4021-a2b2-f2037192f98d")
+	)
+	(fp_line
+		(start -0.66 1.3)
+		(end -0.66 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "317e4e5f-ed39-4559-9852-2d534801836d")
+	)
+	(fp_arc
+		(start -0.66 1.2)
+		(mid -0.61 1.25)
+		(end -0.66 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8f7440c-c89a-43b3-9a5c-4e7dfea68165")
+	)
+	(fp_arc
+		(start -0.66 1.3)
+		(mid -0.71 1.25)
+		(end -0.66 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d8228e9-12da-4753-a9d2-11a9e6cc7397")
+	)
+	(fp_line
+		(start -2.02 -1.66)
+		(end 2.02 -1.66)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8a526e64-8ef8-48f9-a94b-52c9a58e567b")
+	)
+	(fp_line
+		(start -2.02 1.66)
+		(end -2.02 -1.66)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8439bf1-84d1-4125-8c99-f21af8dd8ef5")
+	)
+	(fp_line
+		(start 2.02 -1.66)
+		(end 2.02 1.66)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f1de1787-abf4-4c41-ba39-45725aef961a")
+	)
+	(fp_line
+		(start 2.02 1.66)
+		(end -2.02 1.66)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "00ea6121-d1a1-4d32-b641-180295c2c7bf")
+	)
+	(fp_line
+		(start -1.02 -0.645)
+		(end -1.02 0.645)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2947fe88-bfe0-44dc-abd4-525f5b962255")
+	)
+	(fp_line
+		(start -1.02 0.645)
+		(end 1.02 0.645)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d5118cb0-aa99-4b2d-8e52-8880f594c80c")
+	)
+	(fp_line
+		(start 1.02 -0.645)
+		(end -1.02 -0.645)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "755cfef0-67c6-4f6e-a82c-6b4895578e8b")
+	)
+	(fp_line
+		(start 1.02 0.645)
+		(end 1.02 -0.645)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b02f34c-3aef-41ba-a51e-4acad0a7008a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -7 0)
+		(layer "F.Fab")
+		(uuid "6458bb3e-2873-4abc-85ba-eaef4856d1f1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.66 0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5470536d-93fa-4a73-b57b-1fda001cec7d")
+	)
+	(pad "2" smd rect
+		(at 0 0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "093052c2-9b6a-42a4-8560-f6e45c0bc360")
+	)
+	(pad "3" smd rect
+		(at 0.66 0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3d8ee2e3-1a71-4b9d-8a1c-2b024c19c3f3")
+	)
+	(pad "4" smd rect
+		(at 0.66 -0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "402ac62d-7248-475a-be15-d409549abaaf")
+	)
+	(pad "5" smd rect
+		(at 0 -0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "85fd77d6-ec8c-4033-90c1-09c4c7ee9fc2")
+	)
+	(pad "6" smd rect
+		(at -0.66 -0.495 90)
+		(size 0.33 0.41)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e4b84223-ed06-4e75-a9e7-813b75920ca9")
+	)
+	(model "${KIPRJMOD}/MurPhySDR_libraries/MurPhySDR-3Dmodels.3dshapes/BD1631J50100AHF.stp"
+		(offset
+			(xyz 0 0 0.6999999776)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
