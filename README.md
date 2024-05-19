@@ -9,7 +9,7 @@ MurPhySDR is an open source software-defined radio platform based on the AD9364 
 - MX25L25645GZNI-08G 256Mb flash
 - ADL5611 +22dB TX gain block
 
-![MurPhySDR board](/images/MurPhySDR-board-temp.jpeg)
+![MurPhySDR board](/images/MurPhySDR-board.jpeg)
 
 ## Contents
 
