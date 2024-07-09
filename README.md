@@ -20,7 +20,7 @@ MurPhySDR is an open source software-defined radio platform based on the AD9364 
             kicad/          - Kicad project directory
 
 > [!NOTE]
-> I'm still working on the software and gateware.
+> There are currently no plans to finish the software. 
 
 ## Motivation
 
